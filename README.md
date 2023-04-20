@@ -1,16 +1,23 @@
 # modern_slider
-
-A new Flutter project.
+A simple slide-to-unlock widget for Flutter inspired by the Android Slide To Act.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+#SCREENSHOTS
 
-A few resources to get you started if this is your first Flutter project:
+1. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+ 
+  <img src="https://github.com/AbleDanielOfungi/
+Modern_Slider-Flutter/blob/main/slider1.jpg" width="800" alt="accessibility text">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</p>
+
+2.  
+<p align="center">
+ 
+  <img src="https://github.com/AbleDanielOfungi/
+Modern_Slider-Flutter/blob/main/slider2.jpg" width="800" alt="accessibility text">
+
+</p>
